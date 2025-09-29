@@ -1,17 +1,18 @@
 ## DecodeKeyestudioRC
 Decodes Keyestudio IR Remote Control codes for each button:
 
-<img src="./KeyestudioRC_nbg.png"  width="20%" height="20%" align="left" alt="Keyestudio IR remote control"/>
+<img src="./KeyestudioRC_nbg.png"  width="60%" height="60%" align="left" alt="Keyestudio IR remote control"/>
 
 
 |   |   |   |
 |---|---|---|
-| **1**  [&nbsp;&nbsp;93]| **2**  [157]| **3**  [&nbsp;&nbsp;29]|
-| **4**  [221]| **5**  [235]| **6**  [&nbsp;&nbsp;61]|
-| **7**  [&nbsp;&nbsp;31]| **8** [&nbsp;&nbsp;21]| **9**  [&nbsp;&nbsp;9]|
 |      | **^** [&nbsp;&nbsp;24]|       |
 | **\*** [&nbsp;&nbsp;8]|  **OK**  [199]| **#**  [165]|
 |      | **V** [181]|       | 
+| **1**  [&nbsp;&nbsp;93]| **2**  [157]| **3**  [&nbsp;&nbsp;29]|
+| **4**  [221]| **5**  [235]| **6**  [&nbsp;&nbsp;61]|
+| **7**  [&nbsp;&nbsp;31]| **8** [&nbsp;&nbsp;21]| **9**  [&nbsp;&nbsp;9]|
+
 <br clear="left"/>
 <br/>
 

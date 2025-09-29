@@ -1,58 +1,23 @@
+## DecodeKeyestudioRC
+Decodes Keyestudio IR Remote Control codes for each button:
 
-> Open deze pagina op [https://roboracemsw.github.io/roboracetemplate/](https://roboracemsw.github.io/roboracetemplate/)
-
-## Gebruiken als extensie
-
-Deze repository kan worden toegevoegd als **extensie** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klik op **Nieuw project**
-* klik op **Extensies** onder het tandwielmenu
-* zoeken naar **https://github.com/roboracemsw/roboracetemplate** en importeren
-
-## Dit project bewerken
-
-Om deze repository te bewerken in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klik op **Importeren** en klik vervolgens op **Importeer URL**
-* plak **https://github.com/roboracemsw/roboracetemplate** en klik op importeren
-
-#### Metadata (gebruikt voor zoeken, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+<img src="./KeyestudioRC_nbg.png"  width="20%" height="20%" align="left" alt="Keyestudio IR remote control"/>
 
 
+|   |   |   |
+|---|---|---|
+| **1**  [&nbsp;&nbsp;93]| **2**  [157]| **3**  [&nbsp;&nbsp;29]|
+| **4**  [221]| **5**  [235]| **6**  [&nbsp;&nbsp;61]|
+| **7**  [&nbsp;&nbsp;31]| **8** [&nbsp;&nbsp;21]| **9**  [&nbsp;&nbsp;9]|
+|      | **^** [&nbsp;&nbsp;24]|       |
+| **\*** [&nbsp;&nbsp;8]|  **OK**  [199]| **#**  [165]|
+|      | **V** [181]|       | 
+<br clear="left"/>
+<br/>
 
-> Open deze pagina op [https://roboracemsw.github.io/showrawircode/](https://roboracemsw.github.io/showrawircode/)
-
-## Gebruiken als extensie
-
-Deze repository kan worden toegevoegd als **extensie** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klik op **Nieuw project**
-* klik op **Extensies** onder het tandwielmenu
-* zoeken naar **https://github.com/roboracemsw/showrawircode** en importeren
-
-## Dit project bewerken
-
-Om deze repository te bewerken in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klik op **Importeren** en klik vervolgens op **Importeer URL**
-* plak **https://github.com/roboracemsw/showrawircode** en klik op importeren
-
-#### Metadata (gebruikt voor zoeken, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
-
-
-
-> Open deze pagina op [https://roboracemsw.github.io/decodehx1838/](https://roboracemsw.github.io/decodehx1838/)
-
+Sourced from <a href="https://nl.aliexpress.com/item/1005006463650651.html">Aliexpress</a> 
+<br/>
+IR button codes decoded with [ShowRawIRCode](../ShowRawIRCode)
 ## Gebruiken als extensie
 
 Deze repository kan worden toegevoegd als **extensie** in MakeCode.
@@ -73,30 +38,4 @@ Om deze repository te bewerken in MakeCode.
 #### Metadata (gebruikt voor zoeken, rendering)
 
 * for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
-
-
-
-> Open this page at [https://roboracemsw.github.io/decodekeyestudiorc/](https://roboracemsw.github.io/decodekeyestudiorc/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/roboracemsw/decodekeyestudiorc** and import
-
-## Edit this project
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/roboracemsw/decodekeyestudiorc** and click import
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>e.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>

@@ -7,11 +7,12 @@ Decodes Keyestudio IR Remote Control codes for each button:
 |   |   |   |
 |---|---|---|
 |      | **^** [&nbsp;&nbsp;157]|       |
-| **\*** [&nbsp;&nbsp;189]|  **OK**  [253]| **#**  [173]|
+| **<** [&nbsp;&nbsp;221]|  **OK**  [253]| **>**  [61]|
 |      | **V** [&nbsp;21]|       | 
 | **1**  [&nbsp;&nbsp;22]| **2**  [&nbsp;25]| **3**  [&nbsp;&nbsp;13]|
 | **4**  [&nbsp;12]| **5**  [&nbsp;24]| **6**  [&nbsp;&nbsp;133]|
 | **7**  [&nbsp;&nbsp;8]| **8** [&nbsp;&nbsp;199]| **9**  [&nbsp;&nbsp;165]|
+| **\*** [&nbsp;&nbsp;189]|  **0**  [181]| **#**  [173]|
 
 <br clear="left"/>
 <br/>
